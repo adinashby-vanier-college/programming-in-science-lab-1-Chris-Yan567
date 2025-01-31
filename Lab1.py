@@ -10,6 +10,4 @@ def input_output():
     name= input("Whats your name? ")
     age = int(input("how old are you? "))
     height= float(input("How tall are you in cm? "))
-    print("your name is ", name)
-    print("you are ", age, "years old")
-    print("you are ", height, "cm tall")
+    print("your name is ", name, "you are ", age, "years old",  "you are ", height, "cm tall")
